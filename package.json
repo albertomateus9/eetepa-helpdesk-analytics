@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.1.0",
   "type": "module",
-  "description": "Synthetic helpdesk analytics simulator for lab operations, SLA, failure categories, and dashboards.",
+  "description": "Simulador de chamados de laboratorio, SLA, categorias de falha e metricas operacionais.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
